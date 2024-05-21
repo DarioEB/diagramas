@@ -1,30 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T05:28:13.142Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="TSw0qcUngWnwrinwytsY" version="24.4.4" type="github">
-  <diagram name="Página-1" id="KvzNNUQGdxYONArHS0x0">
-    <mxGraphModel dx="1782" dy="793" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-05-21T22:35:49.715Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.4.4" etag="sld2uRHYLS4qkOTxDIub" type="github">
+  <diagram name="Página-1" id="WEihB5zzsrqFrGceMaD8">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aLUL0lRbE15RjwSlPJcM-2" value="WEB Product / Admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-48" y="346" width="147" height="83" as="geometry" />
-        </mxCell>
-        <mxCell id="aLUL0lRbE15RjwSlPJcM-3" value="WEB Client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-48" y="475" width="147" height="83" as="geometry" />
-        </mxCell>
-        <mxCell id="aLUL0lRbE15RjwSlPJcM-4" value="API" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="578" width="146" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="aLUL0lRbE15RjwSlPJcM-5" value="Database&lt;br&gt;PSQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="704" y="368" width="99" height="127" as="geometry" />
-        </mxCell>
-        <mxCell id="aLUL0lRbE15RjwSlPJcM-6" value="Login Service??" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
-          <mxGeometry x="355" y="346" width="146" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="aLUL0lRbE15RjwSlPJcM-8" value="APP Mobile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-48" y="604" width="147" height="79" as="geometry" />
-        </mxCell>
-        <mxCell id="aLUL0lRbE15RjwSlPJcM-11" value="Storage&lt;br&gt;Minio" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="707.5" y="548" width="100.5" height="121" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
